@@ -1,0 +1,3 @@
+admin  admin
+sini sini@1234
+sinik  sinik@1234
